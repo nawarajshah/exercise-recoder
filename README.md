@@ -1,2 +1,2 @@
-# Fitness Tracker
-A DBMS Mini Project done in 5th semester B.E.  
+# Exercise Recoder
+A DBMS Project done in 6th semester B.E.  
